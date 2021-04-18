@@ -1,0 +1,14 @@
+/Release/*.iobj
+/Release/*.ipdb
+/Release/*.pdb
+/Dynamic/Debug/*.obj
+/Dynamic/Debug/*.idb
+/Dynamic/Debug/*.pdb
+/Dynamic/Debug/*.recipe
+/Dynamic/Debug/*.log
+/Dynamic/*.vcxproj
+/Dynamic/*.filters
+/Dynamic/*.user
+/*.sln
+/Dynamic/Release
+/Dynamic/Dll2.dll
